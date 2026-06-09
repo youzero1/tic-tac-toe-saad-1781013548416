@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-x: #6366f1;
+  --color-o: #ec4899;
+  --color-board: #1e1b4b;
+  --color-cell: #312e81;
+  --color-cell-hover: #3730a3;
+}
+
+body {
+  background-color: #0f0e1a;
+  min-height: 100vh;
+}
